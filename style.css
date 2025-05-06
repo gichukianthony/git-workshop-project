@@ -8,6 +8,12 @@ body{
     background-color: #f0f0f0;
     color: #333;
 }
+header {
+    background-color: #3498db; /* Change this color as needed */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
 h1{
     text-align: center;
     margin: 20px 0;
@@ -23,7 +29,4 @@ h3{
 p{
     text-align: center;
     margin: 5px 0;
-}
-nav{
-    
 }
